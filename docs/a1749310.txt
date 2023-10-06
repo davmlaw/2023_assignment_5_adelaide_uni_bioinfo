@@ -2,7 +2,7 @@
 
 ### Added 
 
-- [SEVERE BUG (XXXXXXX) in file `data/a1749310.txt`](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/6) - Fixed the reported and documented a high-severity bug in the "a1749310.txt" file, to remove all instances of XXXXXXX.
+- [SEVERE BUG (XXXXXXX) in file `data/a1749310.txt`](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/6) - Fixed the reported and documented a high-severity bug in the "a1749310.txt" file, to remove all instances of XXXXXXX.  
 - [LOW-SEVERITY BUG (UPPERCASE) in file `data/a1749310.txt.`](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/7) - Fixed the reported and documented low-severity bug in the "a1749310.txt" file to convert all UPPERCASE words to lowercase. 
 
 ## [unreleased]
