@@ -1,3 +1,9 @@
+## [0.1.2] - 2022-10-06
+
+### Added 
+
+- [SEVERE BUG (XXXXXXX) in file `data/a1749310.txt`](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/6) - Reported and documented a high-severity bug in the "a1749310.txt" file, which includes expected and actual content, as well as a fix.
+
 ## [unreleased]
 
 ### Added
@@ -9,4 +15,3 @@
 ### Added
 
 - Initial commit
-
