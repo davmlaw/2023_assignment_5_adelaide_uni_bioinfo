@@ -9,4 +9,5 @@
 ### Added
 
 - Initial commit
-- CHANGED: Fixed performance degradation caused by high severity issues, see #35 （High Severity Bug - insertion of XXXXXXX, found in data/a1809569.txt）
+- CHANGED: Fixed performance degradation caused by high severity issues, see #35 （High Severity Bug - insertion of XXXXXXX, found in data/a1809569.txt）https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/35#issue-1946325910
+- CHANGED: Fixed performance degradation caused by low severity issues, see #36 （Low Severity Bug - changing some lower case words to UPPERCASE, found in data/a1809569.txt) https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/36#issue-1946347308
