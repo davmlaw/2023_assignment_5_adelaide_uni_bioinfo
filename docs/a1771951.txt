@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Changed
+
+- high severity issue #37 fixed, all instances of XXXXXXX removed from line 5
