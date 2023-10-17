@@ -9,4 +9,4 @@
 ### Added
 
 - Initial commit
-
+- CHANGED: Fixed performance degradation caused by high severity issues, see #35 （High Severity Bug - insertion of XXXXXXX, found in data/a1809569.txt）
