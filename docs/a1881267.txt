@@ -1,5 +1,11 @@
 ## [unreleased]
 
+## 2023-10-17
+
+## Fixed 
+-Amend low severity bug (https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/27) 
+-All unnecessarily placed upper case words converted to lower case. 
+
 ## Fixed 
 -Remove XXXXXXX high severity bug (https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/26) 
 -No more simulated XXXXXXX bugs available on main branch.
