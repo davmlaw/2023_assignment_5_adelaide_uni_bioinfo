@@ -1,12 +1,10 @@
 ## [unreleased]
 
-### Added
+## [1.0] - 17/10/2023
 
-- [Generate initial text files for students](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/4) - including initial errors
+### Fixed 
 
-## [0.1.1] - 2022-10-06
+- CHANGED: Fixed high-severity issue (XXXXXXX). [https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/40]
 
-### Added
 
-- Initial commit
 
