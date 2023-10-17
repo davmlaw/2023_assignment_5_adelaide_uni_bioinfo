@@ -12,4 +12,4 @@
 
 ### Changed
 
-- high severity issue #37 changed, XXXXXXX removed from line 5
+- high severity issue #37 fixed, XXXXXXX removed from line 5
