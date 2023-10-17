@@ -6,5 +6,11 @@
 
 - CHANGED: Fixed high-severity issue (XXXXXXX). [https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/40]
 
+### Fixed 
+
+- CHANGED: Fixed low-severity issue (Unusual UPPERCASES). [https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/41]
+
+
+
 
 
