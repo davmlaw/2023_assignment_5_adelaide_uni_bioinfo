@@ -13,3 +13,7 @@
 ### Changed
 
 - high severity issue #37 fixed, all instances of XXXXXXX removed from line 5
+
+### Changed
+
+- low severity issue #39 fixed, unexpected capitalisation of words in lines 3 and 11 converted to lowercase
