@@ -10,3 +10,9 @@
 
 - Initial commit
 
+## [0.1.2] - 2023-10-18
+
+### Changed 
+
+- Fix high severity issue (remove XXXXXXX). 
+- Refer to issue number #60
