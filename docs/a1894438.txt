@@ -16,4 +16,4 @@
 
 ### Changed
 
-- Deleted the low severity issue "UPPERCASE"
+- Deleted the low severity issue "UPPERCASE" [Issue #57](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/57#issue-1949463139)
