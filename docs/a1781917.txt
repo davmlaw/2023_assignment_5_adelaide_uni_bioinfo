@@ -3,7 +3,7 @@
 
 ### Fixed
 
-- [The high severity issue (XXXXXXX) has been removed from the codebase. The low severity (UPPERCASE) issues remain unaffected.](https://github.com/Zlz-20010502/2023_assignment_5_adelaide_uni_bioinfo/blob/main/data/a1781917.txt)
+- [The high severity issue (XXXXXXX) has been fixed from the codebase. The low severity (UPPERCASE) issues remain unaffected.](https://github.com/Zlz-20010502/2023_assignment_5_adelaide_uni_bioinfo/blob/main/data/a1781917.txt)
 
 ## [0.1.2] - 2023-10-19
 
