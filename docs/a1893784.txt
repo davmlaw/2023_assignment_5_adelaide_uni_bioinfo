@@ -15,3 +15,7 @@
 ### Fixed 
 - Removal of XXXXXXX high severity issue #53 a1893784.txt
 - main branch updated
+
+### changed
+- Low severity bug issue changed (uppercase). Issue number 56.
+- [Issue](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/56#issue-1949442492)
