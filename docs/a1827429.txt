@@ -9,4 +9,5 @@
 ### Added
 
 - Initial commit
+- CHANGED - Removed high severity issues involving insertions of 'XXXXXXXX' in data/a1827429.txt, reported in issue #72 (https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/72)
 
