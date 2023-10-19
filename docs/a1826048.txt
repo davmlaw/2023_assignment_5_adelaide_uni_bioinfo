@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Changed
+
+- Removed 'XXXXXXX' insertions in Lines 1 and 5 in data/a1826048.txt of the main branch in response to high severity bug report detailed in issue #88 (https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/88#issue-1951525901). Merged this change with the stable branch.
