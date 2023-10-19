@@ -12,4 +12,4 @@
 
 ### Changed
 
-- Deleted the high severity issue 
+- Deleted the high severity issue [Issue #54](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/54#issue-1949431518) 
