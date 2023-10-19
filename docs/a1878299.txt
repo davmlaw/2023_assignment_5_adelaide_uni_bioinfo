@@ -10,3 +10,5 @@
 
 - Initial commit
 
+## Fixed
+- Removed the High Severity bug - insertion of XXXXXXX from a1878299.txt
