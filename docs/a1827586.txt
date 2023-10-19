@@ -10,3 +10,8 @@
 
 - Initial commit
 
+## [0.1.2] - 2023-10-19
+
+### CHANGED
+
+- Fixed issue #67 (Deleted 'XXXXXXX' insertions)
