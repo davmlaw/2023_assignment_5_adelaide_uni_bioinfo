@@ -13,3 +13,7 @@
 ### Changed
 
 - Deleted the high severity issue 
+
+### Changed
+
+- Deleted the low severity issue "UPPERCASE"
