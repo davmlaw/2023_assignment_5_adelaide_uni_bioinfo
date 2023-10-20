@@ -14,5 +14,5 @@
 
 ### Fixed
 
-- High severity bug XXXXXXX in line 3 and 9. Issue number #66
+- Low severity bug UPPERCASE in line 3 and 9. Issue number #69
 
