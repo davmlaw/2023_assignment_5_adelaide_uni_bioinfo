@@ -13,3 +13,7 @@
 ### Added
 
 - Remove the high severity bug XXXXXXX in data/a1896000
+
+### Added
+
+- Remove the low severity bug UPPERCASE in data/a1896000
