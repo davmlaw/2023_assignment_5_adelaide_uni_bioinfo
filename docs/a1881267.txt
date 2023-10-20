@@ -10,3 +10,10 @@
 
 - Initial commit
 
+## 2023-10-20
+
+### Changed
+
+- High severity bug issue of XXXXXX rectified - refer to issue #26 on https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/26 - file data/a1881267.txt 
+- No more XXXXXX appearance on file in main branch 
+- Will be cherry-picking same commit to stable
