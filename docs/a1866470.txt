@@ -10,3 +10,8 @@
 
 - Initial commit
 
+## [0.1.2] - 2023-10-20
+
+### Changed
+
+- Remove XXXXXXX and leave a space. The changed issue number is #104.https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/104#issue-1953302949
