@@ -10,3 +10,6 @@
 
 - Initial commit
 
+## Fixed 
+- HIgh severity XXXXX bug removal - issue 85
+- Main branch fixed, will cherrry-pick stable 
