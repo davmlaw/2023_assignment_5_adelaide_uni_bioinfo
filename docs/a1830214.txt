@@ -13,5 +13,6 @@
 ### Changed
 
 - Removed high severity bugs (insertion of XXXXXXX) within data/a1830214.txt located in lines 1 and 5 to now display the expected results https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/73
+- Removed low severity bugs form a1830214.txt (unintensional capitalisation of some words in line 1) https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/75
 
 
