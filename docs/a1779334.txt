@@ -14,9 +14,7 @@
 
 ### [0.1.2] - 2023-10-20
 
-- **CHANGED:** Resolved a high severity issue (XXXXXXX)
+- CHANGED: Resolved a high severity issue (XXXXXXX)
   - Removed 'XXXXXXX' content from the 'data/a1779334.txt' file
-  - Linked Issue: #98
-  - Commit: 
-
-
+  - Linked Issue: https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/98#issue-1952448549
+  
