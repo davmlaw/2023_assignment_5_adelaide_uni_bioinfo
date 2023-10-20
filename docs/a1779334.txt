@@ -10,3 +10,13 @@
 
 - Initial commit
 
+## Changelog
+
+### [0.1.2] - 2023-10-20
+
+- **CHANGED:** Resolved a high severity issue (XXXXXXX)
+  - Removed 'XXXXXXX' content from the 'data/a1779334.txt' file
+  - Linked Issue: #98
+  - Commit: 
+
+
