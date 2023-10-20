@@ -10,3 +10,6 @@
 
 - Initial commit
 
+### Added
+
+- Remove the high severity bug XXXXXXX in data/a1896000
