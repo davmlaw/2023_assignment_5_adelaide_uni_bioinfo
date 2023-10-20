@@ -18,3 +18,11 @@
   - Removed 'XXXXXXX' content from the 'data/a1779334.txt' file
   - Linked Issue: https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/98#issue-1952448549
   
+
+### [0.1.3] - 2023-10-20
+
+- CHANGED: Resolved a low severity issue (UPPERCASE)
+  - Changed 'UPPERCASE' content to 'lowercase'
+  - Linked Issue: https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/99#issue-1952465259
+
+
