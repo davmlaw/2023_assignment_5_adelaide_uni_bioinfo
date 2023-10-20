@@ -1,4 +1,7 @@
 ## [0.1.2] - 2023-10-20
+### Changed
+
+- Fix the low severity issue (UPPERCASE) in Line 5 (https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/102)
 
 ### Changed
 
