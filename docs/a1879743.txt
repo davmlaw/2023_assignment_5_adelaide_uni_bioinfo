@@ -9,7 +9,5 @@
 ### Added
 
 - Initial commit
-### Fixed high severity bug
-- Resolve high severity bug same as main branch
 ### Fixed low severity bug
 - Resolve low severity bug same as main branch
