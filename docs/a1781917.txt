@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- [Fix low severity issue: Added a fix for a low severity issue reported in (https://github.com/Zlz-20010502/2023_assignment_5_adelaide_uni_bioinfo/blob/main/data/a1781917.txt). This change addresses the issue and improves overall stability.  
+- [Fix low severity issue: Added a fix for a low severity issue reported (https://github.com/Zlz-20010502/2023_assignment_5_adelaide_uni_bioinfo/blob/main/data/a1781917.txt). This change addresses the issue and improves overall stability.  
 
 ## [0.1.3] - 2023-10-20
 
