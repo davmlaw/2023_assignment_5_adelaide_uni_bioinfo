@@ -1,4 +1,8 @@
-## [unreleased]
+## [0.1.2] - 2023-10-20
+
+### Changed
+
+- Removal of high severity bug (XXXXXXX) from Lines 5 and 7 (https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/101)
 
 ### Added
 
