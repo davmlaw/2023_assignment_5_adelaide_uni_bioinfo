@@ -10,3 +10,12 @@
 
 - Initial commit
 
+### Changed
+
+- Fix High severity issue XXXXXXX line 1 and 11 (#2139af7)
+
+## [0.1.3] - 2023-10-20
+
+### Changed
+
+- Fixed Uppercase words in line 1 (#218f31c)
