@@ -10,3 +10,7 @@
 
 - Initial commit
 
+## [0.1.1] - 2022-10-06
+
+###Fixed low severity bug
+- resoved low severity bug- UPPERCASE
