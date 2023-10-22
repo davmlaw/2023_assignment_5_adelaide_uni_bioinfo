@@ -1,8 +1,21 @@
 ## [unreleased]
 
+## [1.2.0] - 2023-10-20
+
+### Changed
+
+- v1.2.0 [Removed low severity bug](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/23) - replacing UPPER CASE letters to lower case letters which is considered as low severity bug
+
+## [1.1.0] - 2023-10-19
+
+### Changed
+
+- v1.1.0 [Removed high severity bug](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/22) - deleting "XXXXXXX"s which are considered as high severity bug
+
+## [1.0.0] - 2023-10-06
 ### Added
 
-- [Generate initial text files for students](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/4) - including initial errors
+- v1.0.0 [Generate initial text files for students](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/4) - including initial errors
 
 ## [0.1.1] - 2022-10-06
 
