@@ -1,3 +1,15 @@
+## [0.1.3] - 2023-10-20
+
+### Changed
+
+- Amended uppercase words to lowercase 
+
+## [0.1.2] - 2023-10-20
+
+### Changed
+
+- Remove occurrences of XXXXXXX insertions 
+
 ## [unreleased]
 
 ### Added
@@ -10,3 +22,5 @@
 
 - Initial commit
 
+[0.1.2]: https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/125
+[0.1.3]: https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/126
