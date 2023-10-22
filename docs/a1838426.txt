@@ -10,3 +10,10 @@
 
 - Initial commit
 
+### Deleted
+
+- Deletion 'XXXXXXX' insertions in line 1 and 3 (#11)
+
+### Changed
+
+- Unintended capitalization of words in line 1, 3 and 5 (#12)
