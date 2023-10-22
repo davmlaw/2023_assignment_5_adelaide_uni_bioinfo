@@ -10,3 +10,14 @@
 
 - Initial commit
 
+## [0.1.2] - 2023-10-15
+
+### Fixed
+
+- High severity bug fixed #21 'XXXXXXX' in file data/a1894742.txt
+
+## [0.1.2] - 2023-10-16
+
+### Fixed 
+
+- Low severity bug fixed #25 UPPERCASE words in the file data/a1894742.txt
