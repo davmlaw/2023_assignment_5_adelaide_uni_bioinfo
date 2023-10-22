@@ -1,3 +1,11 @@
+### Changed 
+
+- [Fixed issue #83 low severity bug] (https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/83)
+
+### Changed
+
+- [Fixed issue #82 high severity bug] (https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/82)
+
 ## [unreleased]
 
 ### Added
