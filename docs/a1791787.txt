@@ -10,3 +10,16 @@
 
 - Initial commit
 
+## [0.1.2] - 2023-10-18
+
+### Changed 
+
+- Fix high severity issue (remove XXXXXXX). 
+- Refer to issue number #60
+
+## [0.1.3] - 2023-10-18
+
+### Changed 
+
+- Fix low severity issue (UPPER_CASE_WORD to lower_case_word). 
+- Refer to issue number #59
