@@ -10,3 +10,8 @@
 
 - Initial commit
 
+## [0.1.2] - 2022-10-06
+
+## Changed
+-fixed [SEVERE] issue insertion of 'XXXXXX' in data/a1820572.txt #1
+-fixed [LOW-SEVERITY] capatalization issue in data/a1820572.txt #2
