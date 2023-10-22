@@ -10,3 +10,14 @@
 
 - Initial commit
 
+## [0.1.2] - 2023-10-16
+
+### CHANGED
+
+- Fixed high severity issue #31 extra XXXXXXX removed
+
+## [0.1.3] - 2023-10-16
+
+### CHANGED
+
+- Fixed low severity issue #32 UPPERCASE changed to lower case
