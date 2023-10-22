@@ -10,3 +10,10 @@
 
 - Initial commit
 
+### Changed
+
+- Fixed high severity issue: unexpected XXXXXXX in line 3 [Issue](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/47)
+
+### Changed
+
+- Fixed low severity issue: unexpected uppercase in line 1 [Issue #48](https://github.com/davmlaw/2023_assignment_5_adelaide_uni_bioinfo/issues/48)
