@@ -10,3 +10,11 @@
 
 - Initial commit
 
+## Fixed 
+- HIgh severity XXXXX bug removal - issue 85
+- Main branch fixed, will cherrry-pick stable 
+
+## Fixed
+-Low severity uppercase letter bug rmeoval - issue 86
+-main branch fixed- upper case errors changed to lower case
+
