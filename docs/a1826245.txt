@@ -10,3 +10,12 @@
 
 - Initial commit
 
+### Changed
+
+- Fixed high severity issue (XXXXXXX) insertions in line 3 of file data/a1826245.txt
+
+
+### Changed 
+
+- Fixed low severity capitalisation issue in lines 3 and 13 of file data/a1826245.txt
+
