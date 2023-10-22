@@ -10,3 +10,9 @@
 
 - Initial commit
 
+### Fixed
+- Removed the High Severity bug - insertion of XXXXXXX from a1878299.txt
+
+
+### Fixed the low severity bug
+- Change the low severity bug of inconsistent uppercase words to lowercase in data/file a1878299.txt 
